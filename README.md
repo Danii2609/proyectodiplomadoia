@@ -1,4 +1,4 @@
-# Proyecto del diplomado — modelo **HistGradientBoosting (HGB)** con política **recall-first** y **semáforo operativo** (día: verde/amarillo/rojo; noche: verde/rojo) para priorizar pacientes con riesgo de **DTN > 60 min**. Incluye anexo exportable en Excel con rankings por hito.
+#Proyecto del diplomado — modelo **HistGradientBoosting (HGB)** con política **recall-first** y **semáforo operativo** (día: verde/amarillo/rojo; noche: verde/rojo) para priorizar pacientes con riesgo de **DTN > 60 min**. Incluye anexo exportable en Excel con rankings por hito.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Danii2609/proyectodiplomadoia/blob/main/InformeFinalIASalud.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Danii2609/proyectodiplomadoia/HEAD?labpath=InformeFinalIASalud.ipynb)
